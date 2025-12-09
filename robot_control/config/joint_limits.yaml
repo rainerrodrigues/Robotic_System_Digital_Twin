@@ -1,0 +1,8 @@
+joint_limits:
+  left_wheel_joint:
+    has_velocity_limits: true
+    max_velocity: 10.0
+  right_wheel_joint:
+    has_velocity_limits: true
+    max_velocity: 10.0
+
